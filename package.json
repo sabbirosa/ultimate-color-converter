@@ -9,6 +9,11 @@
     "test": "jest",
     "prepare": "npm run build"
   },
+  "files": [
+    "dist/",
+    "README.md",
+    "LICENSE"
+  ],
   "keywords": [
     "color",
     "converter",
