@@ -1,6 +1,6 @@
 {
   "name": "ultimate-color-converter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A comprehensive library to convert between HEX, RGB, and HSL color formats.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
